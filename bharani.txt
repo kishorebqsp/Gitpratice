@@ -3,3 +3,8 @@ pink
 geen
 blue
 white
+purple
+black
+ppp
+kkk
+bbb
